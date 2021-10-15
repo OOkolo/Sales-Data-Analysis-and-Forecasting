@@ -13,4 +13,4 @@ TASK: Analyze the sales data from a consumer electronics business,  Company Q:
 
 - Utilised the Python Pandas library in Google Colab to answer useful business questions from a company’s yearly sales data.
 - Found the best selling products, the city that generates the most revenue and the best time to advertise based on distribution of sales over hourly intervals across the country
-- Trained and Fit Facebook Prophet Model to predict sales with 95% confidence interval
+- Trained and Fit Facebook Prophet Model to predict sales
